@@ -1,4 +1,3 @@
-
 nytimes_com = '''
 This New Liquid Is Magnetic, and Mesmerizing
 
@@ -35,3 +34,11 @@ Twitter and Square Chief Executive Officer Jack Dorsey
 '''
 
 # write your code here
+while True:
+    url = input()
+    if url == 'nytimes.com':
+        print(nytimes_com)
+    elif url == 'bloomberg.com':
+        print(bloomberg_com)
+    else:
+        break

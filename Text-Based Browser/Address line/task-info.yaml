@@ -83,5 +83,8 @@ files:
       if __name__ == '__main__':    TextBasedBrowserTest().run_tests()
     learner_created: false
 feedback_link: https://hyperskill.org/projects/79/stages/436/implement#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 11 Apr 2024 05:44:05 UTC"
 record: -1
